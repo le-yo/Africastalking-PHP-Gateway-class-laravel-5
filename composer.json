@@ -1,17 +1,17 @@
 {
     "name": "leyo/africastalkinglaravelgateway",
-    "description": ":package_description",
+    "description": "Africastalking Laravel 5 Gateway",
     "keywords": [
         "league",
-        ":package_name"
+        ":Laravel Africastalking"
     ],
     "homepage": "https://github.com/leyo/africastalkinglaravelgateway",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Leo",
+            "email": "leo@devs.mobi",
+            "homepage": "http://le-yo.com",
             "role": "Developer"
         }
     ],
