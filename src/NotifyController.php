@@ -19,8 +19,8 @@ class NotifyController extends Controller {
 	 */
 		public function __construct()
 		{
-			$this->_username    = "lenykoskey";
-			$this->_apiKey      = "abbfa09e621a6ece272a254e3fcd910657ff46e88f82db205499603d06dda908";
+			$this->_username    = "username";
+			$this->_apiKey      = "password";
 
 		}
 
